@@ -1,8 +1,8 @@
 styles.css
 body{background-color: black;
     color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size:80%;}
+    font-family: 'Arial', 'Helvetica'
+    font: size 100;;}
 
 h1   {color:#675f4b;
     font-family: 'Arial', 'Helvetica'; 
@@ -16,6 +16,6 @@ div.demo{border-style:dotted;
         width: 100px;
         height: 100px}
 
-ol{list-style-type: upper-roman;}
+ol{list-style-type: upper-latin;}
 
 ul{list-style-type: square;}
