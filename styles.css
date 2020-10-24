@@ -1,0 +1,21 @@
+styles.css
+body{background-color: black;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:80%;}
+
+h1   {color:#675f4b;
+    font-family: 'Arial', 'Helvetica'; 
+    font-size: 20px;}
+
+p   {font-size: 12px;
+    color:green}
+
+div.demo{border-style:dotted;
+        border-width: 2px;
+        width: 100px;
+        height: 100px}
+
+ol{list-style-type: upper-roman;}
+
+ul{list-style-type: square;}
